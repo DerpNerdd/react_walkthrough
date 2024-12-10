@@ -1,4 +1,4 @@
-import TestComponent from './tutorial/04-conditional-rendering/1-multiple-returns';
+import TestComponent from './tutorial/04-conditional-rendering/3-show-hide';
 
 function App() {
   return (
